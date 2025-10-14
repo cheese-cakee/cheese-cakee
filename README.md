@@ -11,7 +11,7 @@
 ### ABOUT ME
 
 - From **India**
-- Currently Learning **low level dev and web dev**
+- Currently learning **low level dev and web dev**
 
 ---
 
