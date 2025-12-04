@@ -10,7 +10,6 @@
 
 ### ABOUT ME
 
-- From **India**
 - Currently learning **low level dev and web dev**
 
 ---
