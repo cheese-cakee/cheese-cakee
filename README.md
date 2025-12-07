@@ -10,7 +10,8 @@
 
 ### ABOUT ME
 
-- Currently learning **low level dev and web dev**
+- Currently learning **low level dev, CI/CD and web dev**
+- I like building stuff which help people build stuff
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cheese_cakee_9) 
