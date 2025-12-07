@@ -1,9 +1,7 @@
-
-
 <h3 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝔀𝓸𝓻𝓵𝓭 𝓸𝓯 𝓬𝓸𝓭𝓮 !</h3>
 
 <p align="center">
-  Hey there! I'm Farzan ,a cs undergrad student.
+  Hey there! I'm Farzan , a CS undergrad student.
 </p>
 
 ---
