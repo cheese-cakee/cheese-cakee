@@ -1,30 +1,23 @@
 <div align="center">
 
   <!-- ======================================================= -->
-  <!--               LAYER 1: THE ANIME CHAOS                  -->
+  <!--               LAYER 1: THE LAIR                         -->
   <!-- ======================================================= -->
 
-  <!-- Large Banner -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZwbnZ5eGZwbnZ5eGZwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMc7w09Y8fL4Q/giphy.gif" width="100%" alt="Anime Cyberpunk Banner" />
-
-  <!-- Glitch Header -->
-
 <br/><br/>
-<img src="assets/header.svg" width="800" alt="Welcome to my Lair" />
 
-  <h3 align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝔀𝓸𝓻𝓵𝓭 𝓸𝓯 𝓬𝓸𝓭𝓮 !</h3>
-
-  <!-- Anime Greeting Table -->
+  <!-- Glitch Header (SVG) -->
+  <img src="assets/header.svg" width="800" alt="Welcome to my Lair" />
+  
+  <br/><br/>
+  
   <table align="center" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" valign="center">
-        <!-- Spagetti Overlay -->
-        <img src="assets/spaghetti.svg" width="400" />
-      </td>
-      <td align="center" valign="center" width="400">
+      <td align="center" valign="center" width="600">
          <h3>Hey there! I'm Farzan.</h3>
          <p>CS Undergrad | System Dev | Chaos Enthusiast</p>
          <p><i>"I like building stuff which help people build stuff"</i></p>
+         <br/>
          <!-- Holopin -->
          <a href="https://holopin.io/@cheesecakee">
             <img src="https://holopin.me/cheesecakee" alt="Holopin Badges" width="100%" />
@@ -36,22 +29,20 @@
 <br/><hr/><br/>
 
   <!-- ======================================================= -->
-  <!--               LAYER 2: THE DOOM ARCADE                  -->
+  <!--               LAYER 2: DOOM ( OFFICIAL )                -->
   <!-- ======================================================= -->
 
-  <h2>🕹️  SYSTEM OVERRIDE: PROTOCOL DOOM  🕹️</h2>
-  <p><b>CLICK THE SCREEN BELOW TO START THE SIMULATION</b></p>
-  
+  <!-- Game Viewport -->
   <a href="menu/episode_1.md">
-    <img src="static/start-visual.gif" alt="Click to Play DOOM" width="600" style="border: 5px solid #ff0055; border-radius: 10px;">
+    <img src="static/start-visual.gif" alt="DOOM" width="640" style="border: 2px solid #555; border-radius: 4px; box-shadow: 0 0 20px #000;">
   </a>
   <br/>
-  <sub><i>(Powered by GitHub Stateless Engine)</i></sub>
+  <img src="https://img.shields.io/badge/DOOM-Shareware_1.9-red?style=flat-square" />
 
 <br/><hr/><br/>
 
   <!-- ======================================================= -->
-  <!--               LAYER 3: THE COCKPIT (STATS)              -->
+  <!--               LAYER 3: CONTROL PANEL                    -->
   <!-- ======================================================= -->
 
   <h2>📊 CONTROL PANEL</h2>
@@ -84,8 +75,13 @@
   <!-- GitHub Stats Table -->
   <table align="center">
     <tr>
-      <td><img src="https://nirzak-streak-stats.vercel.app/?user=cheese-cakee&theme=dark&hide_border=false" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+      <td>
+        <!-- Using a different stats card provider to see if it fixes the broken image issue -->
+        <img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&theme=dark" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&theme=dark&layout=compact" />
+      </td>
     </tr>
   </table>
 
