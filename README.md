@@ -1,24 +1,6 @@
 <div align="center">
 
-![Header](assets/header.svg)
-
-</div>
-
-<div align="center">
-
-## 🎮 DOOM - E1M1
-
-[![Play DOOM](static/start-visual.gif)](menu/episode_1.md)
-
-![System](https://img.shields.io/badge/SYSTEM-ACTIVE-success?style=flat-square) ![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-![Japanese Banner](assets/japan_banner.png)
+![Banner](assets/wave_banner.svg)
 
 </div>
 
@@ -49,12 +31,6 @@ _Building tools that help people build better_
 </table>
 
 ---
-
-<div align="center">
-
-![Temple](assets/temple.png)
-
-</div>
 
 ## 🛠️ Tech Stack
 
@@ -101,10 +77,12 @@ _Building tools that help people build better_
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&theme=apprentice&hide_border=true&bg_color=1a1b27&title_color=d89aba&icon_color=d89aba&text_color=c9d1d9" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cheese-cakee&theme=dark&hide_border=true&background=1a1b27&ring=d89aba&fire=d89aba&currStreakLabel=d89aba" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&theme=buefy&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cheese-cakee&theme=buefy&hide_border=true" height="165" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&theme=apprentice&hide_border=true&bg_color=1a1b27&title_color=d89aba&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&theme=buefy&hide_border=true" />
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cheese-cakee&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -116,15 +94,21 @@ _Building tools that help people build better_
 
 [![Holopin](https://holopin.me/cheesecakee)](https://holopin.io/@cheesecakee)
 
+![Profile Views](https://komarev.com/ghpvc/?username=cheese-cakee&style=flat-square&color=d89aba)
+
 </div>
 
 ---
 
-## 📈 Activity
+## 🎮 Try Playing DOOM Right Here!
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=cheese-cakee&style=flat-square&color=d89aba)
+**Click the image below to start playing DOOM E1M1 directly on GitHub!**
+
+[![Play DOOM](static/start-visual.gif)](menu/episode_1.md)
+
+_Yes, it actually works. Go ahead, click it!_
 
 </div>
 
