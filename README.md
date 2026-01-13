@@ -1,20 +1,14 @@
 ```
-
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣶⣶⣶⣶⣶⣶⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀  ╭──────────────────────────────────────────────╮
-  ⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠀  │  welcome to my github                        │
-  ⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀  │  ─────────────────────────────────           │
-  ⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀  │                                              │
-  ⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀  │  visitor count: you're one of us now        │
-  ⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆  │  current mood: (∠・ω< )⌒☆                   │
-  ⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷  │                                              │
-  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  ╰──────────────────────────────────────────────╯
-  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-  ⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿
-  ⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇
-  ⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀
-  ⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀
-  ⠀⠀⠀⠀⠙⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠋⠀⠀⠀⠀
-  ⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀
+╭──────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                                      │
+│    ███████╗ █████╗ ██████╗ ███████╗ █████╗ ███╗   ██╗                               │
+│    ██╔════╝██╔══██╗██╔══██╗╚══███╔╝██╔══██╗████╗  ██║                               │
+│    █████╗  ███████║██████╔╝  ███╔╝ ███████║██╔██╗ ██║                               │
+│    ██╔══╝  ██╔══██║██╔══██╗ ███╔╝  ██╔══██║██║╚██╗██║                               │
+│    ██║     ██║  ██║██║  ██║███████╗██║  ██║██║ ╚████║                               │
+│    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝                               │
+│                                                                                      │
+╰──────────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <table>
@@ -34,10 +28,6 @@
 │   shell    building tools that help people build    │
 │   theme    catppuccin mocha                         │
 │   editor   vscode + vim                             │
-│                                                      │
-│   ╭─ packages ─────────────────────────────────╮    │
-│   │ c cpp python js ts bash react next git     │    │
-│   ╰────────────────────────────────────────────╯    │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
@@ -84,14 +74,12 @@
 ### 📊 github stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=true&count_private=true" width="48%">
+<img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=true&count_private=true" width="48%">
 <img src="https://streak-stats.demolab.com?user=cheese-cakee&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F5C2E7&currStreakLabel=CBA6F7&sideLabels=CDD6F4&currStreakNum=CDD6F4&dates=6C7086&sideNums=CDD6F4" width="48%">
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&langs_count=10" width="38%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheese-cakee&theme=catppuccin_mocha&utcOffset=5.5" width="28%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheese-cakee&theme=catppuccin_mocha" width="28%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&langs_count=10" width="40%">
 </p>
 
 <p align="center">
@@ -137,8 +125,4 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cheese-cakee&style=for-the-badge&color=cba6f7&labelColor=1e1e2e&label=profile+views">
-</p>
-
-<p align="center">
-<i>made with mass amounts of mass and mass amounts of mass</i>
 </p>
