@@ -64,35 +64,26 @@
 
 ### 📊 github stats
 
-<!-- Using github-profile-summary-cards - most reliable service -->
+<!-- Using shields.io - most reliable badges on the internet -->
+<p align="center">
+<img src="https://img.shields.io/github/followers/cheese-cakee?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e&color=f38ba8">
+<img src="https://img.shields.io/github/stars/cheese-cakee?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e&color=a6e3a1&affiliations=OWNER">
+</p>
+
+<!-- GitHub Stats using original anuraghazra repo -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheese-cakee&theme=catppuccin_mocha" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=f38ba8&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=true&count_private=true" height="180">
+</a>
+<a href="https://github.com/cheese-cakee">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="180">
 </a>
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cheese-cakee&theme=catppuccin_mocha" height="180">
-</a>
-<a href="https://github.com/cheese-cakee">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheese-cakee&theme=catppuccin_mocha&utcOffset=5.5" height="180">
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/cheese-cakee">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheese-cakee&theme=catppuccin_mocha" height="180">
-</a>
-<a href="https://github.com/cheese-cakee">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheese-cakee&theme=catppuccin_mocha" height="180">
-</a>
-</p>
-
-<!-- GitHub Streak using DenverCoder1's reliable instance -->
-<p align="center">
-<a href="https://github.com/cheese-cakee">
-  <img src="https://streak-stats.demolab.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true" height="180">
+  <img src="https://streak-stats.demolab.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true">
 </a>
 </p>
 
