@@ -1,6 +1,16 @@
 <div align="center">
 
-![Welcome Header](assets/header.svg)
+![Header](assets/header.svg)
+
+</div>
+
+<div align="center">
+
+## 🎮 DOOM - E1M1
+
+[![Play DOOM](static/start-visual.gif)](menu/episode_1.md)
+
+![System](https://img.shields.io/badge/SYSTEM-ACTIVE-success?style=flat-square) ![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=flat-square)
 
 </div>
 
@@ -8,64 +18,31 @@
 
 <div align="center">
 
-## 🎮 DOOM: E1M1 - HANGAR
-
-[![DOOM Game](static/start-visual.gif)](menu/episode_1.md)
-
-![System Overridden](https://img.shields.io/badge/SYSTEM-OVERRIDDEN-red?style=for-the-badge&logo=hackthebox)
-![DOOM Running](https://img.shields.io/badge/DOOM-RUNNING-success?style=for-the-badge&logo=doom)
+![Japanese Banner](assets/japan_banner.png)
 
 </div>
 
----
-
-## 💀 OPERATOR: FARZAN
+## 🌸 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%">
 
-### 🌊 ABOUT
-
-![Anime](assets/anime.gif)
-
-**CS Undergrad | System Dev | Chaos Enthusiast**
-
-_"I like building stuff which help people build stuff"_
-
-![HUD](https://media.tenor.com/UnK1i4_x3oUAAAAC/hud-ui.gif)
+![Coding Space](assets/coding_space.png)
 
 </td>
-<td width="50%">
+<td width="40%">
 
-### 🛠️ WEAPONRY
+### Farzan
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Computer Science Undergrad**  
+**System Developer**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+_Building tools that help people build better_
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-![Cyberpunk](https://media.tenor.com/2RoDo8pXU5UAAAAC/cyberpunk.gif)
+🎯 Focused on creating elegant solutions  
+🌱 Always learning, always growing  
+⚡ Passionate about clean code
 
 </td>
 </tr>
@@ -73,24 +50,81 @@ _"I like building stuff which help people build stuff"_
 
 ---
 
-## 📊 MISSION STATUS
+<div align="center">
+
+![Temple](assets/temple.png)
+
+</div>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=bf2a2a&icon_color=bf2a2a)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cheese-cakee&theme=tokyonight&hide_border=false&background=0d1117&ring=bf2a2a&currStreakLabel=bf2a2a)
+### Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&theme=tokyonight&hide_border=false&bg_color=0d1117&title_color=bf2a2a)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+### Other
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 ACHIEVEMENTS
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![Holopin Badges](https://holopin.me/cheesecakee)](https://holopin.io/@cheesecakee)
+<img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&theme=apprentice&hide_border=true&bg_color=1a1b27&title_color=d89aba&icon_color=d89aba&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cheese-cakee&theme=dark&hide_border=true&background=1a1b27&ring=d89aba&fire=d89aba&currStreakLabel=d89aba" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&theme=apprentice&hide_border=true&bg_color=1a1b27&title_color=d89aba&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![Holopin](https://holopin.me/cheesecakee)](https://holopin.io/@cheesecakee)
+
+</div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=cheese-cakee&style=flat-square&color=d89aba)
 
 </div>
 
@@ -98,6 +132,6 @@ _"I like building stuff which help people build stuff"_
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=cheese-cakee&style=for-the-badge&color=red)
+_Made with 🌸 by Farzan_
 
 </div>
