@@ -1,13 +1,6 @@
-```diff
-+ ╭────────────────────────────────────────────────────────────────────────────────────╮
-+ │  ░█████╗░██╗░░██╗███████╗███████╗░██████╗███████╗░█████╗░░█████╗░██╗░░██╗███████╗  │
-+ │  ██╔══██╗██║░░██║██╔════╝██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██║░██╔╝██╔════╝  │
-+ │  ██║░░╚═╝███████║█████╗░░█████╗░░╚█████╗░█████╗░░██║░░╚═╝███████║█████═╝░█████╗░░  │
-+ │  ██║░░██╗██╔══██║██╔══╝░░██╔══╝░░░╚═══██╗██╔══╝░░██║░░██╗██╔══██║██╔═██╗░██╔══╝░░  │
-+ │  ╚█████╔╝██║░░██║███████╗███████╗██████╔╝███████╗╚█████╔╝██║░░██║██║░╚██╗███████╗  │
-+ │  ░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═════╝░╚══════╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝  │
-+ ╰────────────────────────────────────────────────────────────────────────────────────╯
-```
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&width=500&lines=CHEESECAKE" alt="cheesecake">
+</p>
 
 <table>
 <tr>
@@ -71,23 +64,36 @@
 
 ### 📊 github stats
 
+<!-- Using github-profile-summary-cards - most reliable service -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=f38ba8&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" height="180">
-</a>
-<a href="https://github.com/cheese-cakee">
-  <img src="https://streak-stats.demolab.com?user=cheese-cakee&hide_border=true&background=1E1E2E&ring=f38ba8&fire=f38ba8&currStreakLabel=f38ba8&sideLabels=CDD6F4&currStreakNum=CDD6F4&dates=6C7086&sideNums=CDD6F4" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cheese-cakee&theme=catppuccin_mocha" width="100%">
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cheese-cakee&theme=catppuccin_mocha" height="180">
+</a>
+<a href="https://github.com/cheese-cakee">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheese-cakee&theme=catppuccin_mocha&utcOffset=5.5" height="180">
 </a>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cheese-cakee&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%">
+<a href="https://github.com/cheese-cakee">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheese-cakee&theme=catppuccin_mocha" height="180">
+</a>
+<a href="https://github.com/cheese-cakee">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cheese-cakee&theme=catppuccin_mocha" height="180">
+</a>
+</p>
+
+<!-- GitHub Streak using DenverCoder1's reliable instance -->
+<p align="center">
+<a href="https://github.com/cheese-cakee">
+  <img src="https://streak-stats.demolab.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true" height="180">
+</a>
 </p>
 
 ---
