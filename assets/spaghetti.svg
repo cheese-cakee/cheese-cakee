@@ -1,0 +1,31 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    path {
+      fill: none;
+      stroke-width: 3;
+      stroke-linecap: round;
+      opacity: 0.8;
+      animation: dash 30s linear infinite, wiggle 3s ease-in-out infinite alternate;
+    }
+    .s1 { stroke: #ff0055; animation-delay: 0s; }
+    .s2 { stroke: #00ffca; animation-delay: -1s; }
+    .s3 { stroke: #ffee00; animation-delay: -2s; }
+    .s4 { stroke: #aa00ff; animation-delay: -0.5s; }
+
+    @keyframes wiggle {
+      from { transform: translateY(0px) skewX(0deg); }
+      to { transform: translateY(10px) skewX(2deg); }
+    }
+    
+    @keyframes dash {
+      0% { stroke-dasharray: 10, 10; stroke-dashoffset: 0; }
+      100% { stroke-dasharray: 10, 10; stroke-dashoffset: 1000; }
+    }
+  </style>
+
+  <!-- Chaos Lines -->
+  <path d="M0,100 C200,50 600,150 800,100" class="s1" />
+  <path d="M0,120 C250,180 550,20 800,120" class="s2" />
+  <path d="M0,80 C150,0 650,200 800,80" class="s3" />
+  <path d="M0,50 Q400,250 800,50" class="s4" />
+</svg>
