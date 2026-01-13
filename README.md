@@ -1,6 +1,13 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5c2e7,100:cba6f7&height=100&section=header&text=cheesecake&fontSize=40&fontColor=1e1e2e&animation=twinkling&fontAlignY=40" width="100%">
-</p>
+```diff
++ ╭────────────────────────────────────────────────────────────────────────────────────╮
++ │  ░█████╗░██╗░░██╗███████╗███████╗░██████╗███████╗░█████╗░░█████╗░██╗░░██╗███████╗  │
++ │  ██╔══██╗██║░░██║██╔════╝██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██║░██╔╝██╔════╝  │
++ │  ██║░░╚═╝███████║█████╗░░█████╗░░╚█████╗░█████╗░░██║░░╚═╝███████║█████═╝░█████╗░░  │
++ │  ██║░░██╗██╔══██║██╔══╝░░██╔══╝░░░╚═══██╗██╔══╝░░██║░░██╗██╔══██║██╔═██╗░██╔══╝░░  │
++ │  ╚█████╔╝██║░░██║███████╗███████╗██████╔╝███████╗╚█████╔╝██║░░██║██║░╚██╗███████╗  │
++ │  ░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═════╝░╚══════╝░╚════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝  │
++ ╰────────────────────────────────────────────────────────────────────────────────────╯
+```
 
 <table>
 <tr>
@@ -65,25 +72,22 @@
 ### 📊 github stats
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" width="48%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=cheese-cakee&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F5C2E7&currStreakLabel=CBA6F7&sideLabels=CDD6F4&currStreakNum=CDD6F4&dates=6C7086&sideNums=CDD6F4">
-  <img src="https://streak-stats.demolab.com?user=cheese-cakee&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F5C2E7&currStreakLabel=CBA6F7&sideLabels=CDD6F4&currStreakNum=CDD6F4&dates=6C7086&sideNums=CDD6F4" width="48%">
-</picture>
+<a href="https://github.com/cheese-cakee">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=f38ba8&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e" height="180">
+</a>
+<a href="https://github.com/cheese-cakee">
+  <img src="https://streak-stats.demolab.com?user=cheese-cakee&hide_border=true&background=1E1E2E&ring=f38ba8&fire=f38ba8&currStreakLabel=f38ba8&sideLabels=CDD6F4&currStreakNum=CDD6F4&dates=6C7086&sideNums=CDD6F4" height="180">
+</a>
 </p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" width="40%">
-</picture>
+<a href="https://github.com/cheese-cakee">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="150">
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=cheese-cakee&theme=catppuccin_mocha&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%">
+<img src="https://github-profile-trophy.vercel.app/?username=cheese-cakee&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%">
 </p>
 
 ---
@@ -99,7 +103,7 @@
 ### 📈 contribution graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cheese-cakee&bg_color=1e1e2e&color=cdd6f4&line=cba6f7&point=f5c2e7&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cheese-cakee&bg_color=1e1e2e&color=cdd6f4&line=f38ba8&point=f5c2e7&area=true&hide_border=true" width="100%">
 </p>
 
 ---
@@ -124,5 +128,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=cheese-cakee&style=for-the-badge&color=cba6f7&labelColor=1e1e2e&label=profile+views">
+<img src="https://komarev.com/ghpvc/?username=cheese-cakee&style=for-the-badge&color=f38ba8&labelColor=1e1e2e&label=profile+views">
 </p>
