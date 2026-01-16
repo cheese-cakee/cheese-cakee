@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=100000000&pause=100000000&color=F38BA8&center=true&vCenter=true&width=180&lines=Hi!+I+am" alt="hi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=2000&color=F38BA8&center=true&vCenter=true&width=250&repeat=true&lines=Farzan;Cheesecake+%F0%9F%91%8B" alt="name">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=2000&color=F38BA8&center=true&vCenter=true&width=500&repeat=true&lines=Hi!+I+am+Farzan;Hi!+I+am+Cheesecake+%F0%9F%91%8B" alt="typing">
 </p>
 
 <table>
 <tr>
 <td valign="top" width="280">
 
-<img src="assets/anime.gif" width="260">
+<img src="assets/fetch.png" width="260">
 
 </td>
 <td valign="top">
@@ -83,7 +83,7 @@
 <!-- GitHub Streak -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://streak-stats.demolab.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true&ring=F38BA8&fire=FAB387&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=F38BA8&sideLabels=CDD6F4&dates=6C7086&background=1E1E2E">
+  <img src="https://streak-stats.demolab.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true">
 </a>
 </p>
 
