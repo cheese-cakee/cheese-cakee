@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=F38BA8&center=true&vCenter=true&width=500&lines=CHEESECAKE" alt="cheesecake">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=1500&color=F38BA8&center=true&vCenter=true&width=500&repeat=true&lines=Hi!+I+am+Farzan;Hi!+I+am+Cheesecake+%F0%9F%91%8B" alt="typing">
 </p>
 
 <table>
@@ -64,26 +64,26 @@
 
 ### 📊 github stats
 
-<!-- Using shields.io - most reliable badges on the internet -->
+<!-- Reliable shields.io badges -->
 <p align="center">
 <img src="https://img.shields.io/github/followers/cheese-cakee?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e&color=f38ba8">
 <img src="https://img.shields.io/github/stars/cheese-cakee?style=for-the-badge&logo=github&logoColor=cdd6f4&labelColor=1e1e2e&color=a6e3a1&affiliations=OWNER">
 </p>
 
-<!-- GitHub Stats using original anuraghazra repo -->
+<!-- GitHub Stats - using alternative instance -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-readme-stats.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=f38ba8&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=true&count_private=true" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=f38ba8&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=true&count_private=true" height="180">
 </a>
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="180">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="180">
 </a>
 </p>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak - using git.io shortlink which is more reliable -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://streak-stats.demolab.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&stroke=313244&ring=F38BA8&fire=FAB387&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=F38BA8&sideLabels=CDD6F4&dates=6C7086">
 </a>
 </p>
 
