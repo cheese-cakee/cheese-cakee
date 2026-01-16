@@ -12,15 +12,16 @@
 <td valign="top">
 
 ```properties
-╭─ cheesecake@github ──────────────────────────────────╮
-│                                                      │
-│   os       cs undergrad                             │
-│   wm       wanna be systems dev                     │
-│   shell    building tools that help people build    │
-│   theme    catppuccin mocha                         │
-│   editor   vscode + vim                             │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
+│                                                                                 │
+│   os       cs undergrad                                                         │
+│   wm       wanna be systems dev                                                 │
+│   shell    building tools that help people build                                │
+│   theme    catppuccin mocha                                                     │
+│   editor   vscode + vim                                                         │
+│   focus    low-level systems, dev tooling, open source                          │
+│                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 </td>
@@ -80,13 +81,6 @@
 </a>
 </p>
 
-<!-- GitHub Streak -->
-<p align="center">
-<a href="https://github.com/cheese-cakee">
-  <img src="https://streak-stats.demolab.com?user=cheese-cakee&theme=catppuccin-mocha&hide_border=true">
-</a>
-</p>
-
 ---
 
 ### 🏆 holopin badges
@@ -110,12 +104,11 @@
 <p align="center">
 
 ```
-╭─ real playable doom ─────────────────────────────────────────────────────────────────╮
-│                                                                                      │
-│  this is actually doom running on github. click the ▶ play button at the top        │
-│  right of the gif to start playing. use the navigation links to move around.        │
-│                                                                                      │
-╰──────────────────────────────────────────────────────────────────────────────────────╯
+╭─ playable doom ─────────────────────────────────────────────────────────────────╮
+│                                                                                 │
+│  play doom right here on github. click the image to start.                      │
+│                                                                                 │
+╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
 
 <a href="menu/episode_1.md"><img src="static/start-visual.gif" width="500"></a>
