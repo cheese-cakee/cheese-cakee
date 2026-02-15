@@ -45,7 +45,6 @@
 ![NPM](https://img.shields.io/badge/npm-%231e1e2e?style=for-the-badge&logo=npm&logoColor=f38ba8)
 ![CMake](https://img.shields.io/badge/cmake-%231e1e2e?style=for-the-badge&logo=cmake&logoColor=89b4fa)
 ![Terraform](https://img.shields.io/badge/terraform-%231e1e2e?style=for-the-badge&logo=terraform&logoColor=cba6f7)
-![AWS](https://img.shields.io/badge/AWS-%231e1e2e.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%231e1e2e?style=for-the-badge&logo=docker&logoColor=74c7ec)
 ![Linux](https://img.shields.io/badge/linux-%231e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
 ![Ollama](https://img.shields.io/badge/Ollama-%231e1e2e.svg?style=for-the-badge&logo=ollama&logoColor=white)
