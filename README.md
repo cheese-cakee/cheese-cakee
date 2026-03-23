@@ -68,22 +68,6 @@
 
 ---
 
-### 🏆 holopin badges
-
-<p align="center">
-<a href="https://holopin.io/@cheesecakee"><img src="https://holopin.me/cheesecakee" width="100%"></a>
-</p>
-
----
-
-### 📈 contribution graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cheese-cakee&bg_color=1e1e2e&color=cdd6f4&line=f38ba8&point=f5c2e7&area=true&hide_border=true" width="60%">
-</p>
-
----
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=cheese-cakee&style=for-the-badge&color=f38ba8&labelColor=1e1e2e&label=profile+views">
 </p>
