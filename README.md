@@ -13,10 +13,10 @@
 ```properties
 ╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
-│  profile   CS undergrad | open-source systems/devtools contributor              │
-│  trust     Triage member @hiero-ledger (LF Decentralized Trust)                │
-│  impact    merged PRs in CRIU + Rizin; active reviewed work in Ceph            │
-│  strength  C/C++ systems work, Python + Go tooling, CI/debug-first iteration   │
+│  profile   CS undergrad | open source systems & devtools contributor            │
+│  trust     Triage member @hiero-ledger (LF Decentralized Trust)                 │
+│  impact    merged PRs in CRIU + Rizin;active reviewed work in Ceph              │
+│  strength  C/C++ systems work, Python + Go tooling                              │
 │  workflow  reproducible fixes, fast review turnaround, clean commit discipline  │
 │                                                                                 │
 ╰─────────────────────────────────────────────────────────────────────────────────╯
