@@ -13,12 +13,11 @@
 ```properties
 ╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
-│   os       cs undergrad                                                         │
-│   wm       wanna be systems dev                                                 │
-│   shell    building tools that help people build                                │
-│   theme    catppuccin mocha                                                     │
-│   editor   vscode + vim                                                         │
-│   focus    low-level systems, dev tooling, open source                          │
+│  profile   CS undergrad | open-source systems/devtools contributor              │
+│  trust     Triage member @hiero-ledger (LF Decentralized Trust)                │
+│  impact    merged PRs in CRIU + Rizin; active reviewed work in Ceph            │
+│  strength  C/C++ systems work, Python + Go tooling, CI/debug-first iteration   │
+│  workflow  reproducible fixes, fast review turnaround, clean commit discipline  │
 │                                                                                 │
 ╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
