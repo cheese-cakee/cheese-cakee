@@ -38,7 +38,6 @@
 ![Python](https://img.shields.io/badge/python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![TypeScript](https://img.shields.io/badge/typescript-%231e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
 ![Bash](https://img.shields.io/badge/bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
-![Next.js](https://img.shields.io/badge/next.js-%231e1e2e?style=for-the-badge&logo=next.js&logoColor=cdd6f4)
 ![Git](https://img.shields.io/badge/git-%231e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
 ![NPM](https://img.shields.io/badge/npm-%231e1e2e?style=for-the-badge&logo=npm&logoColor=f38ba8)
 ![CMake](https://img.shields.io/badge/cmake-%231e1e2e?style=for-the-badge&logo=cmake&logoColor=89b4fa)
