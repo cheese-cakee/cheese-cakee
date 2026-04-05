@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ tech stack
+### somethings I know
 
 <p align="center">
 
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 github stats
+### github stats
 
 <!-- GitHub Stats - using alternative instance -->
 <p align="center">
