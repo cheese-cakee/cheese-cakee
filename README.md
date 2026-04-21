@@ -15,7 +15,7 @@
 │                                                                                 │
 │  profile   CS undergrad | open source , systems , infra , dev tools             │
 │  trust     Triage member @hiero-ledger (LF Decentralized Trust)                 │
-│  impact    merged PRs in CRIU,Rizin,Prometheus,PipeCD ;approved PRs in Ceph     │
+│  impact    merged PRs in CRIU,Rizin,Prometheus,Ceph,Pipecd                      │
 │  strength  C/C++ systems work, Python + Go tooling                              │
 │  workflow  reproducible fixes, fast review turnaround, clean commit discipline  │
 │                                                                                 │
