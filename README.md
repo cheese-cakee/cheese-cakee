@@ -28,7 +28,7 @@
 
 ---
 
-### what i've been up to
+### oss work so far
 
 - **[selected engineering highlights](https://gist.github.com/cheese-cakee/6229f95d4c9f3ce641577f40e64dbbf8)** — curated PRs across Ceph, Rizin, CRIU, Prometheus, Hiero, and more
 - **[hiero contributions portfolio](https://gist.github.com/cheese-cakee/fc4dbfd6297af59eacf7bcb54618dffe)** — triage work, CI/CD tooling, reviews, and issue logs across Python & C++ SDKs
