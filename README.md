@@ -13,10 +13,10 @@
 ```properties
 ╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
-│  profile   CS undergrad | open source , systems , infra , dev tools             │
+│  profile   CS undergrad | systems , infra , inference , dev tools               │
 │  trust     LFX Mentee @hiero-ledger, Under maintainer guidance @Ceph            │
-│  impact    merged PRs in CRIU,Rizin,Prometheus,Ceph and more                    │
-│  strength  C/C++ systems work, Python + Go tooling                              │
+│  impact    merged PRs in CRIU , Rizin , Prometheus and more                     │
+│  strength  C/C++ systems work, Python                                           │
 │  workflow  no slop, reproducible fixes, fast review turnaround, clean commits   │
 │                                                                                 │
 ╰─────────────────────────────────────────────────────────────────────────────────╯
