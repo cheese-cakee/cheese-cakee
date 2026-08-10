@@ -56,7 +56,7 @@
 
 ### github stats
 
-<!-- GitHub Stats - using alternative instance -->
+<!-- GitHub Stats - generated daily by .github/workflows/profile-stats.yml -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
   <img src="./profile/stats.svg" height="180">
