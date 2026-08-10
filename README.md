@@ -56,13 +56,13 @@
 
 ### github stats
 
-<!-- GitHub Stats - using alternative instance -->
+<!-- GitHub Stats - generated daily by .github/workflows/profile-stats.yml -->
 <p align="center">
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cheese-cakee&show_icons=true&hide_border=true&title_color=f38ba8&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&include_all_commits=true&count_private=true" height="180">
+  <img src="./profile/stats.svg" height="180">
 </a>
 <a href="https://github.com/cheese-cakee">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cheese-cakee&layout=compact&hide_border=true&title_color=f38ba8&text_color=cdd6f4&bg_color=1e1e2e&langs_count=8" height="180">
+  <img src="./profile/top-langs.svg" height="180">
 </a>
 </p>
 
