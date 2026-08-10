@@ -39,7 +39,7 @@ jobs:
 
       - name: Commit updated cards
         run: |
-          if git diff --quiet -- profile/stats.svg profile/top-langs.svg && test -f profile/stats.svg && test -f profile/top-langs.svg; then
+          if [ -z "$(git status --porcelain -- profile/stats.svg profile/top-langs.svg)" ]; then
             exit 0
           fi
           git config user.name "github-actions[bot]"
