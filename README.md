@@ -14,7 +14,7 @@
 ╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
 │  profile   CS undergrad | systems , infra , inference , dev tools               │
-│  trust     LFX Mentee @hiero-ledger, Under maintainer guidance @Ceph            │
+│  trust     LFX Mentee @hiero-ledger, ex contract engineer @lucebox              │
 │  impact    merged PRs in CRIU , Rizin , Prometheus and more                     │
 │  strength  C/C++ systems work, Python                                           │
 │  workflow  no slop, reproducible fixes, fast review turnaround, clean commits   │
