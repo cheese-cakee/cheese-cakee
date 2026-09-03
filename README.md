@@ -14,7 +14,7 @@
 ╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
 │  profile   CS undergrad | systems , infra , inference , dev tools               │
-│  trust     LFX Mentee @hiero-ledger, ex contract engineer @lucebox              │
+│  trust     LFX Mentee @hiero-ledger, ex contract engineer @inference startup    │
 │  impact    merged PRs in CRIU , Ceph, Rizin , Prometheus and more               │
 │  strength  C/C++ systems work, inference and model serving                      │
 │  workflow  no slop, reproducible fixes, fast review turnaround, clean commits   │
@@ -30,7 +30,7 @@
 
 ### my work so far
 
-- **[Lucebox inference engine work](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee)** · AMD GPU inference, heterogeneous execution, kernel performance, and runtime correctness.
+- **[Opensource inference engine work](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee)** · AMD GPU inference, heterogeneous execution, kernel performance, and runtime correctness.
 
 - **[LFX Mentorship 2026 · Hiero](https://github.com/hiero-hackers/sdk-automations)** · ongoing  
   Contributing across the Python and C++ SDKs, with work spanning runtime behavior, CI reliability, security hardening, and maintainer tooling.
