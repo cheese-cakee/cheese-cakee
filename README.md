@@ -28,7 +28,7 @@
 
 ---
 
-### selected work
+### my work so far
 
 - **[Lucebox inference engine contributions](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee)** · AMD GPU inference, heterogeneous execution, kernel performance, and runtime correctness.
 
