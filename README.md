@@ -30,7 +30,7 @@
 
 ### my work so far
 
-- **[Lucebox inference engine contributions](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee)** · AMD GPU inference, heterogeneous execution, kernel performance, and runtime correctness.
+- **[Lucebox inference engine work](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee)** · AMD GPU inference, heterogeneous execution, kernel performance, and runtime correctness.
 
 - **[LFX Mentorship 2026 · Hiero](https://github.com/hiero-hackers/sdk-automations)** · ongoing  
   Contributing across the Python and C++ SDKs, with work spanning runtime behavior, CI reliability, security hardening, and maintainer tooling.
