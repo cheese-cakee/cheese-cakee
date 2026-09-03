@@ -15,7 +15,7 @@
 │                                                                                 │
 │  profile   CS undergrad | systems , infra , inference , dev tools               │
 │  trust     LFX Mentee @hiero-ledger, ex contract engineer @lucebox              │
-│  impact    merged PRs in CRIU , Rizin , Prometheus and more                     │
+│  impact    merged PRs in CRIU , Ceph, Rizin , Prometheus and more               │
 │  strength  C/C++ systems work, inference and model serving                      │
 │  workflow  no slop, reproducible fixes, fast review turnaround, clean commits   │
 │                                                                                 │
