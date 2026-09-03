@@ -32,7 +32,7 @@
 
 - **[Lucebox inference engine contributions](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee)** · AMD GPU inference, heterogeneous execution, kernel performance, and runtime correctness.
 
-- **[LFX Mentorship 2026 · Hiero](https://gist.github.com/cheese-cakee/fc4dbfd6297af59eacf7bcb54618dffe)** · ongoing  
+- **[LFX Mentorship 2026 · Hiero](https://github.com/hiero-hackers/sdk-automations)** · ongoing  
   Contributing across the Python and C++ SDKs, with work spanning runtime behavior, CI reliability, security hardening, and maintainer tooling.
 
 - **[Selected systems and infrastructure contributions](https://gist.github.com/cheese-cakee/6229f95d4c9f3ce641577f40e64dbbf8)**  
