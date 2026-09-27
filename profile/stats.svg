@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Cheese Cake&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 35, Total Commits  : 513, Total PRs: 178, Total Issues: 43, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 36, Total Commits  : 513, Total PRs: 178, Total Issues: 43, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 91.61947540123448;
+        stroke-dashoffset: 91.02265714655555;
       }
     }
   
@@ -158,7 +158,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >35</text>
+      >36</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
