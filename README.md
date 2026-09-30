@@ -13,11 +13,11 @@
 ```properties
 ╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
-│  profile   CS undergrad | systems , infra , inference , dev tools               │
-│  trust     LFX Mentee @hiero-ledger, ex contract engineer @inference startup    │
-│  impact    merged PRs in CRIU , Ceph, Rizin , Prometheus and more               │
-│  strength  C/C++ systems work, inference and model serving                      │
-│  workflow  no slop, reproducible fixes, fast review turnaround, clean commits   │
+│  profile   CS undergrad @ NSEC Kolkata | systems, inference, dev tools          │
+│  trust     LFX Mentee @hiero-ledger, ex contract inference engineer @lucebox    │
+│  impact    merged PRs in vLLM, Ceph, CRIU, Rizin, Prometheus, lucebox           │
+│  strength  C/C++ systems, GPU inference (CUDA, HIP), model serving              │
+│  workflow  exact-output checks, matched benchmarks, clean commits               │
 │                                                                                 │
 ╰─────────────────────────────────────────────────────────────────────────────────╯
 ```
@@ -30,13 +30,17 @@
 
 ### my work so far
 
-- **[Opensource inference engine work](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee)** · AMD GPU inference, heterogeneous execution, kernel performance, and runtime correctness.
+- **[Lucebox inference engine](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee+is%3Amerged)** · contract inference engineer, 2026  
+  24 merged PRs in a C++ CUDA/HIP inference engine: DeepSeek-V4 MoE prefill across two AMD GPUs (2.02x on a 401-token prompt, byte-identical output), a fused MoE combine kernel, HIP wave64 correctness, and a CUDA-graph replay fix.
+
+- **[vLLM](https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3Acheese-cakee)** · Model Runner V2 support for stock `torch.compile` (merged), plus open fixes for deterministic compilation and read-only containers.
 
 - **[LFX Mentorship 2026 · Hiero](https://github.com/hiero-hackers/sdk-automations)** · ongoing  
-  Contributing across the Python and C++ SDKs, with work spanning runtime behavior, CI reliability, security hardening, and maintainer tooling.
+  Building sdk-automations, one GitHub App that runs contributor-facing automation for the Hiero SDK repositories from repository-owned config: signature-verified webhooks, crash-safe SQLite processing, and checks that stop it acting on stale state. Before the mentorship: CI bots and tests in the Python and C++ SDKs.
 
-- **[Selected systems and infrastructure contributions](https://gist.github.com/cheese-cakee/6229f95d4c9f3ce641577f40e64dbbf8)**  
-  Work across Ceph, CRIU, Rizin, Prometheus, and other open-source projects.
+- **[Systems and infrastructure](https://gist.github.com/cheese-cakee/6229f95d4c9f3ce641577f40e64dbbf8)** · merged fixes in Ceph (RGW), CRIU, Rizin, and Prometheus.
+
+- **Projects** · [bonsai-inference-lab](https://github.com/cheese-cakee/bonsai-inference-lab): a 27B ternary model on a 6 GB laptop GPU, with a bit-exact AVX2 kernel · [Benchmarking-GEMM](https://github.com/cheese-cakee/Benchmarking-GEMM): SGEMM from the triple loop to packed AVX2 + OpenMP, step by step.
 
 ---
 
@@ -50,9 +54,10 @@
 ![Python](https://img.shields.io/badge/python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
 ![Bash](https://img.shields.io/badge/bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
 ![Git](https://img.shields.io/badge/git-%231e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
-![NPM](https://img.shields.io/badge/npm-%231e1e2e?style=for-the-badge&logo=npm&logoColor=f38ba8)
+![CUDA](https://img.shields.io/badge/cuda-%231e1e2e?style=for-the-badge&logo=nvidia&logoColor=a6e3a1)
+![HIP/ROCm](https://img.shields.io/badge/hip%2Frocm-%231e1e2e?style=for-the-badge&logo=amd&logoColor=f38ba8)
+![TypeScript](https://img.shields.io/badge/typescript-%231e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
 ![CMake](https://img.shields.io/badge/cmake-%231e1e2e?style=for-the-badge&logo=cmake&logoColor=89b4fa)
-![Terraform](https://img.shields.io/badge/terraform-%231e1e2e?style=for-the-badge&logo=terraform&logoColor=cba6f7)
 ![Docker](https://img.shields.io/badge/docker-%231e1e2e?style=for-the-badge&logo=docker&logoColor=74c7ec)
 ![Linux](https://img.shields.io/badge/linux-%231e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
 
