@@ -33,14 +33,10 @@
 - **[Lucebox inference engine](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee+is%3Amerged)** · contract inference engineer, 2026  
   24 merged PRs in a C++ CUDA/HIP inference engine: DeepSeek-V4 MoE prefill across two AMD GPUs (2.02x on a 401-token prompt, byte-identical output), a fused MoE combine kernel, HIP wave64 correctness, and a CUDA-graph replay fix.
 
-- **[vLLM](https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3Acheese-cakee)** · Model Runner V2 support for stock `torch.compile` (merged), plus open fixes for deterministic compilation and read-only containers.
-
 - **[LFX Mentorship 2026 · Hiero](https://github.com/hiero-hackers/sdk-automations)** · ongoing  
   Building sdk-automations, one GitHub App that runs contributor-facing automation for the Hiero SDK repositories from repository-owned config: signature-verified webhooks, crash-safe SQLite processing, and checks that stop it acting on stale state. Before the mentorship: CI bots and tests in the Python and C++ SDKs.
 
 - **[Systems and infrastructure](https://gist.github.com/cheese-cakee/6229f95d4c9f3ce641577f40e64dbbf8)** · merged fixes in Ceph (RGW), CRIU, Rizin, and Prometheus.
-
-- **Projects** · [bonsai-inference-lab](https://github.com/cheese-cakee/bonsai-inference-lab): a 27B ternary model on a 6 GB laptop GPU, with a bit-exact AVX2 kernel · [Benchmarking-GEMM](https://github.com/cheese-cakee/Benchmarking-GEMM): SGEMM from the triple loop to packed AVX2 + OpenMP, step by step.
 
 ---
 
