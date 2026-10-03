@@ -13,7 +13,7 @@
 ```properties
 ╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
 │                                                                                 │
-│  profile   CS undergrad @ NSEC Kolkata | systems, inference, dev tools          │
+│  profile   CS undergrad | systems, inference, dev tools                         │
 │  trust     LFX Mentee @hiero-ledger, ex contract inference engineer @lucebox    │
 │  impact    merged PRs in vLLM, Ceph, CRIU, Rizin, Prometheus, lucebox           │
 │  strength  C/C++ systems, GPU inference (CUDA, HIP), model serving              │
