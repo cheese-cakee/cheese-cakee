@@ -1,15 +1,15 @@
 
       <svg
-        width="308.4999976158142"
+        width="304"
         height="195"
-        viewBox="0 0 308.4999976158142 195"
+        viewBox="0 0 304 195"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Cheese Cake&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 41, Total Commits  : 562, Total PRs: 196, Total Issues: 44, Contributed to (last year): 26</desc>
+        <title id="titleId">cheese cake&#39;s GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 41, Total Commits  : 569, Total PRs: 200, Total Issues: 44, Contributed to (last year): 26</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.89575577855436;
+        stroke-dashoffset: 85.52808095593647;
       }
     }
   
@@ -117,7 +117,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="307.4999976158142"
+          width="303"
           fill="#1e1e2e"
           stroke-opacity="0"
         />
@@ -133,7 +133,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Cheese Cake&#39;s GitHub Stats</text>
+      >cheese cake&#39;s GitHub Stats</text>
     </g>
       </g>
     
@@ -173,7 +173,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >562</text>
+      >569</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -188,7 +188,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >196</text>
+      >200</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
