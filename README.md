@@ -30,8 +30,8 @@
 
 ### my work so far
 
-- **[vLLM](https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3Acheese-cakee+is%3Amerged)** · contributor, 2026  
-  4 merged PRs in vLLM (MRV2): support for stock torch.compile mode, removing stream syncs from NonUvaBuffer host-to-device copies, respecting Inductor deterministic mode in combo-kernel defaults, and a fix accepting num_speculative_tokens in NgramGPUSpeculator.
+- **[vLLM](https://github.com/vllm-project/vllm/pulls?q=is%3Apr+author%3Acheese-cakee+is%3Amerged)** · contributor  
+  merged PRs in vLLM (MRV2): support for stock torch.compile mode, removing stream syncs from NonUvaBuffer host-to-device copies, respecting Inductor deterministic mode in combo-kernel defaults, and a fix accepting num_speculative_tokens in NgramGPUSpeculator.
 
 - **[Lucebox inference engine](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee+is%3Amerged)** · contract inference engineer, 2026  
   24 merged PRs in a C++ CUDA/HIP inference engine: DeepSeek-V4 MoE prefill across two AMD GPUs (2.02x on a 401-token prompt, byte-identical output), a fused MoE combine kernel, HIP wave64 correctness, and a CUDA-graph replay fix.
