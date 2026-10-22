@@ -49,7 +49,3 @@
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=cheese-cakee&style=for-the-badge&color=f38ba8&labelColor=1e1e2e&label=profile+views">
-</p>
