@@ -47,18 +47,24 @@
 
 <p align="center">
 
-![C](https://img.shields.io/badge/c-%231e1e2e?style=for-the-badge&logo=c&logoColor=a6e3a1)
 ![C++](https://img.shields.io/badge/c++-%231e1e2e?style=for-the-badge&logo=c%2B%2B&logoColor=89b4fa)
-![Go](https://img.shields.io/badge/go-%231e1e2e.svg?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
-![Bash](https://img.shields.io/badge/bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
-![Git](https://img.shields.io/badge/git-%231e1e2e?style=for-the-badge&logo=git&logoColor=fab387)
+![C](https://img.shields.io/badge/c-%231e1e2e?style=for-the-badge&logo=c&logoColor=a6e3a1)
 ![CUDA](https://img.shields.io/badge/cuda-%231e1e2e?style=for-the-badge&logo=nvidia&logoColor=a6e3a1)
 ![HIP/ROCm](https://img.shields.io/badge/hip%2Frocm-%231e1e2e?style=for-the-badge&logo=amd&logoColor=f38ba8)
+![Triton](https://img.shields.io/badge/triton-%231e1e2e?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/pytorch-%231e1e2e?style=for-the-badge&logo=pytorch&logoColor=fab387)
+![vLLM](https://img.shields.io/badge/vllm-%231e1e2e?style=for-the-badge&logo=vllm&logoColor=89b4fa)
+![x86 SIMD](https://img.shields.io/badge/x86%20simd-%231e1e2e?style=for-the-badge&logo=intel&logoColor=74c7ec)
+![Python](https://img.shields.io/badge/python-%231e1e2e?style=for-the-badge&logo=python&logoColor=f9e2af)
+![Go](https://img.shields.io/badge/go-%231e1e2e.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%231e1e2e?style=for-the-badge&logo=typescript&logoColor=89b4fa)
+![Node.js](https://img.shields.io/badge/node.js-%231e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=a6e3a1)
 ![CMake](https://img.shields.io/badge/cmake-%231e1e2e?style=for-the-badge&logo=cmake&logoColor=89b4fa)
 ![Docker](https://img.shields.io/badge/docker-%231e1e2e?style=for-the-badge&logo=docker&logoColor=74c7ec)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%231e1e2e?style=for-the-badge&logo=githubactions&logoColor=89b4fa)
+![SQLite](https://img.shields.io/badge/sqlite-%231e1e2e?style=for-the-badge&logo=sqlite&logoColor=74c7ec)
 ![Linux](https://img.shields.io/badge/linux-%231e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af)
+![Bash](https://img.shields.io/badge/bash-%231e1e2e?style=for-the-badge&logo=gnu-bash&logoColor=a6e3a1)
 
 </p>
 
