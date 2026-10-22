@@ -1,33 +1,3 @@
-<p align="center">
-
-
-<table>
-<tr>
-<td valign="top" width="280">
-
-<img src="assets/fetch.png" width="260">
-
-</td>
-<td valign="top">
-
-```properties
-╭─ cheesecake@github ─────────────────────────────────────────────────────────────╮
-│                                                                                 │
-│  profile   CS undergrad | systems, inference, dev tools                         │
-│  trust     LFX Mentee @hiero-ledger, ex contract inference engineer @lucebox    │
-│  impact    merged PRs in vLLM, Ceph, CRIU, Rizin, Prometheus, lucebox           │
-│  strength  C/C++ systems, GPU inference (CUDA, HIP), model serving              │
-│  workflow  exact-output checks, matched benchmarks, clean commits               │
-│                                                                                 │
-╰─────────────────────────────────────────────────────────────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
-
----
-
 ### my work so far
 
 - **[Lucebox inference engine](https://github.com/Luce-Org/lucebox/pulls?q=is%3Apr+author%3Acheese-cakee+is%3Amerged)** · contract inference engineer, 2026  
@@ -76,10 +46,6 @@
 <p align="center">
 <a href="https://github.com/cheese-cakee">
   <img src="./profile/stats.svg" height="180">
-</a>
-<a href="https://github.com/cheese-cakee">
-  <img src="./profile/top-langs.svg" height="180">
-</a>
 </p>
 
 ---
