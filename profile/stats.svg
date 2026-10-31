@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">cheese cake&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 41, Total Commits  : 649, Total PRs: 218, Total Issues: 74, Contributed to (last year): 24</desc>
+        <desc id="descId">Total Stars Earned: 41, Total Commits  : 649, Total PRs: 218, Total Issues: 74, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -218,7 +218,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >24</text>
+      >22</text>
     </g>
   </g>
     </svg>
